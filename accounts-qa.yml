@@ -2,7 +2,7 @@ build:
   version: "2.0"
 
 accounts:
-  message: "Welcome to accounts related QA APIs "
+  message: "Welcome to accounts related QA(env) APIs "
   contactDetails:
     name: "Mudit Khanna - Product Owner"
     email: "m@accounts-qa.com"
